@@ -2,10 +2,13 @@
 
 This is a simple image uploader that allows users to upload images and view them in a gallery. You can upload drag and drop images or select them from your computer. It was built as a challenge from [Devchallenges.io](https://devchallenges.io/).
 
+![image](https://github.com/JuanCarlos-27/image-uploader/assets/110681873/ac20681c-2d0a-4292-83f3-ebcb543c924c)
+
+
 ## Technologies Used
 
 - [Angular](https://reactjs.org/)🔴: A JavaScript library for building user interfaces.
-- [Firebase](https://firebase.google.com/)🔴: A platform developed by Google for creating mobile and web applications.
+- [Firebase](https://firebase.google.com/)🟠: A platform developed by Google for creating mobile and web applications.
 
 ## Getting Started
 
