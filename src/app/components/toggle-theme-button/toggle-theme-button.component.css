@@ -1,0 +1,11 @@
+button {
+  border: 1px solid var(--dashed-color);
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 2px 0 rgba(90, 90, 90, 0.2);
+}
